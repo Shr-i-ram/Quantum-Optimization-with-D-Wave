@@ -5,7 +5,10 @@ A collection of notebooks exploring quantum optimization techniques using D-Wave
 This repository provides a practical introduction to formulating and solving combinatorial optimization problems using both classical and quantum-inspired approaches.
 
 ---
+## Optimization Workflow
 
+![Optimization Workflow](Image_QA.png)
+---
 ## Overview
 
 Many real-world optimization problems can be expressed as:
